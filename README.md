@@ -22,7 +22,7 @@ Built using [electron-audio-loopback](https://github.com/alectrocute/electron-au
 ## Installation
 
 ```bash
-cd electron-recorder
+cd audilupz-recorder
 npm install
 ```
 
